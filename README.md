@@ -33,6 +33,11 @@ On the backend, users, restaurants and menu information can be easily managed vi
 
 ## Demo
 
+
+![restaurant-app-demo](https://user-images.githubusercontent.com/71361700/209899179-d7d2b6a1-9388-4abb-aa2d-08dddea66a6f.gif)
+
+
+
 ## How to Run
 
 To get started:
