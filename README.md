@@ -29,7 +29,7 @@ This full-sack MERN app will let you see menus from different restaurants, add d
 
 Includes a Search Bar, different dishes per restaurant and cart manages orders from different restaurants.
 
-On the backend, users, restaurants and menu information can be easily managed via Stripe.
+On the backend, users, restaurants and menu information can be easily managed via Strapi.
 
 ## Demo
 
