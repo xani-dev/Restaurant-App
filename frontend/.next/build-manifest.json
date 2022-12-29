@@ -29,10 +29,10 @@
       "static/chunks/webpack.js",
       "static/chunks/pages/checkout.js"
     ],
-    "/restaurants": [
+    "/login": [
       "static/chunks/main.js",
       "static/chunks/webpack.js",
-      "static/chunks/pages/restaurants.js"
+      "static/chunks/pages/login.js"
     ]
   },
   "ampFirstPages": []
